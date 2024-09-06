@@ -134,12 +134,7 @@ WiFiClient client = server.available();
   }
 
   ///////////////////////////////elektrikli süpürge////////////////////////////////
-//   else if(req.indexOf("/SupurgeAc") != -1)
-//  {
-//  irsend.sendNEC(OK, 32);  // Send a raw data capture at 38kHz.
-//    Serial.println("süpürge açıldı");
-//    delay(150);
-//  }
+
 
 
 else if(req.indexOf("/kademe4") != -1)
@@ -164,7 +159,7 @@ else if(req.indexOf("/yikama") != -1)
   }
   
 
-////////////////////////////////// TV KONSOL ///////////////////////////////////////
+////////////////////////////////// LG TV KONSOL ///////////////////////////////////////
 
 
 
