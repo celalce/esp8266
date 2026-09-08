@@ -68,7 +68,7 @@ To control the IR transmitter remotely from your smartphone:
 If you have questions, feedback, or need help creating the mobile application, please get in touch:
 
 * **Email:** [celalce25@hotmail.com )
-* **GitHub:** [Github](https://github.com/celalce)
+
 
 ---
 
